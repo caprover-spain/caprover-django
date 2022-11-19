@@ -1,4 +1,4 @@
-# caprover-django
+# CapRover Django
 
 ```
 virtualenv venv

@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-iddjsg61@c6+m6ataxf&zarst+8!eewdolgohw)g0l-9+comix
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['caprover-django.pyerp.co']
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
